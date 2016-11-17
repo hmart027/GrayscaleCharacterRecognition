@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Image Tools"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/InftyCDB"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MathTools"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Plotter"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/eegdsp"/>
+	<classpathentry kind="lib" path="/media/DATA/SoftwareLibraries/Tess4J/dist/tess4j-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/media/DATA/SoftwareLibraries/Tess4J/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="/media/DATA/SoftwareLibraries/Tess4J/lib/jai-imageio-core-1.3.1.jar"/>
+	<classpathentry kind="lib" path="/media/DATA/SoftwareLibraries/Tess4J/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/media/DATA/SoftwareLibraries/Tess4J/lib/jul-to-slf4j-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/media/DATA/SoftwareLibraries/Tess4J/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/media/DATA/SoftwareLibraries/Tess4J/lib/log4j-over-slf4j-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/media/DATA/SoftwareLibraries/Tess4J/lib/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/media/DATA/SoftwareLibraries/Tess4J/lib/lept4j-1.2.3.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ANN JNI">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/media/DATA/Software_linux/ANN/SharedLib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
